@@ -1,12 +1,33 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Reseach Overview"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+My research aims to enhance athlete monitoring by leveraging training load data collected from wearable sensors to develop predictive models that optimize training management and athlete performance in team sports. By integrating advanced data analytics with routinely collected training data, I focus on creating data-driven solutions that support coaches and sports scientists in making informed decisions to improve training outcomes and reduce injury risk.
+
+Current Research Projects
+======
+Machine Learning Approach for Predicting RPE Using GNSS Wearable Sensors
+------
+This project explores how machine learning can be used to predict athletes' Ratings of Perceived Exertion (RPE) using GNSS data. By developing models that capture the complexity of external load metrics, I aim to provide a more accurate and actionable understanding of training demands.
+Estimating VO2 During Team Sports from IMU Wearable Sensors Data
+------
+This project focuses on estimating oxygen consumption (VO2) using Inertial Measurement Unit (IMU) data. The goal is to create robust models for physiological monitoring during team sports, providing deeper insights into athlete conditioning and metabolic demands during high-intensity activities.
+Automating Event Detection in Team Sports Using Wearable Sensor Data
+------
+This research investigates automating the detection of key events and phases during sports activities using GNSS and IMU data. The project aims to develop algorithms that can recognize and classify complex movement patterns to enhance tactical and performance analysis.
+
+
+Research Goals
+------
+Through my research, I strive to create innovative data-driven methods that can be applied in real-world training environments, helping practitioners optimise training load management, prevent injuries, and enhance overall athlete performance.
+
+Feel free to explore the repositories for more details on code, data, and project documentation!
+<!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -46,4 +67,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
