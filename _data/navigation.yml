@@ -7,7 +7,7 @@
 main:
   - title: "CV"
     # url: /cv/
-    url: files/Sports_Performance_Data_Scientist_CV.pdf
+    url: /files/Sports_Performance_Data_Scientist_CV.pdf
 
   - title: "Portfolio"
     url: /portfolio/
