@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/dermot-sheridan-56628b48/"# Username
+  linkedin         : "dermot-sheridan-56628b48/"# Username
   mastodon         : # URL
   medium           : 'https://medium.com/@dermot.sheridan1' # URL
   pinterest        : # Username
@@ -65,13 +65,14 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : 'https://x.com/DermotSheridan' # Username for X / Twitter
+  twitter          : 'DermotSheridan' # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  substack         : 'https://substack.com/@dermotsheridan' # URL
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

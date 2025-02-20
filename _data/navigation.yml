@@ -6,7 +6,8 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: /file/Sports_Perfromance_Data_Scientist_CV.pdf
 
   - title: "Portfolio"
     url: /portfolio/
@@ -23,7 +24,6 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
-    
 
   # - title: "Blog Posts"
   #   url: /year-archive/
