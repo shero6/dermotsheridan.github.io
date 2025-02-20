@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](http://dermotsheridan.github.io/file/Sports_Performance_Data_Scientist_CV.pdf)
+[Downlaod my CV here](http://academicpages.github.io/file/Sports_Performance_Data_Scientist_CV.pdf)
 
 <!-- Education
 ======
