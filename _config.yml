@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3687-1943"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Sheridan+Dermot"
   researchgate     : 'https://www.researchgate.net/profile/Dermot-Sheridan'
 
   # Repositories and software development
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "dermot-sheridan-56628b48/"# Username
+  linkedin         : "dermot-sheridan-56628b48"# Username
   mastodon         : # URL
   medium           : 'https://medium.com/@dermot.sheridan1' # URL
   pinterest        : # Username
