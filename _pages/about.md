@@ -7,16 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
----
-permalink: /
-title: "Hello"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ## About Me
 
 I am a **sports performance data scientist** with a background in applying machine learning and data analytics to elite sport. My work sits at the intersection of sports science and artificial intelligence, exploring how data-driven techniques can enhance athlete monitoring and performance.
