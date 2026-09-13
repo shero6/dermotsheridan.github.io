@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Downlaod my CV here](files/Sports_Performance_Data_Scientist_CV.pdf)
+[Downlaod my CV here](files/Data_Scientist_Resume__Dermot_Sheridan__2026_Sept_.pdf)
 
 <!-- Education
 ======
