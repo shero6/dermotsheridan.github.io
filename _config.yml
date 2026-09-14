@@ -12,8 +12,8 @@ title                    : "Shero6 / Homepage"
 title_separator          : "-"
 name                     : &name "Dermot Sheridan"
 description              : &description "personal description"
-url                      : https:/dermotsheridan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://shero6.github.io"
+baseurl                  : "/dermotsheridan.github.io"
 repository               : "shero6/dermotsheridan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -27,7 +27,7 @@ author:
   bio              : "PhD, Data Science | Founder, LúthTech Performance"
   location         : "Dublin, Ireland"
   employer         : "LúthTech Performance"
-  uri              : # URL
+  uri              : "https://luthtechperformance.com" # or whatever your actual LúthTech URL is
   email            : "dermot.sheridan1@gmail.com" 
 
   # Academic websites
